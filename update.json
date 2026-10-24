@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 41,
-  "versionName": "0.14.27",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.27/DeerFree-v0.14.27-release.apk",
-  "sha256": "802406911dbec0858f1c852a2c066a6a25188519cd763e311a96cee6da2fc4be",
-  "notes": "改善路線模擬移動、懸浮播放控制與前後點操作。首次使用請先取得有效的 DeerFree 邀請碼。"
+  "versionCode": 42,
+  "versionName": "0.14.28",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.28/DeerFree-v0.14.28-release.apk",
+  "sha256": "e21279849271f963a73868a9ec2f3ab7059a1531dae8d166a22976a109157eab",
+  "notes": "通知欄圖示更新為鹿角造型，更容易辨識 DeerFree。"
 }
