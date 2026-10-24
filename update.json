@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 43,
-  "versionName": "0.14.29",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.29/DeerFree-v0.14.29-release.apk",
-  "sha256": "75970e4c0dd7b98f210363a877593ae363e6a12bb7aa27c9300b0ea6e08d91e6",
-  "notes": "現在開啟 App 即可自動檢查更新，也能調整檢查頻率。新版下載完成後會開啟 Android 安裝確認畫面。"
+  "versionCode": 44,
+  "versionName": "0.14.30",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.30/DeerFree-v0.14.30-release.apk",
+  "sha256": "2c41508ce8f2450349730d5e1e62a4333c9f53644fb0af23c9c5e292c508c9fe",
+  "notes": "金盆自取 B 連點延長為 7 秒，四鍵操作與空白座標輸入；主程式及懸浮搜尋後可選擇定位操作。"
 }
