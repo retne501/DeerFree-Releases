@@ -1,1 +1,9 @@
-{"schemaVersion":1,"available":false,"notes":"DeerFree 尚未發佈正式 APK；目前沒有可下載更新。"}
+{
+  "schemaVersion": 1,
+  "available": true,
+  "versionCode": 41,
+  "versionName": "0.14.27",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.27/DeerFree-v0.14.27-release.apk",
+  "sha256": "802406911dbec0858f1c852a2c066a6a25188519cd763e311a96cee6da2fc4be",
+  "notes": "改善路線模擬移動、懸浮播放控制與前後點操作。首次使用請先取得有效的 DeerFree 邀請碼。"
+}
