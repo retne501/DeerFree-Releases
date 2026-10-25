@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 50,
-  "versionName": "0.14.36",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.36/DeerFree-v0.14.36-release.apk",
-  "sha256": "4738be9e298d3e930f50fa4392245d03f29045c8dd9e336db57f3130fed7f7c4",
-  "notes": "主畫面恢復「金盆自取／本草綱目」雙按鍵與小草圖示；懸浮 CAB 可選擇 Tasker 或全無障礙模式，取消可返回保留座標。當金花無法可靠確認時 CAB 會安全停止。"
+  "versionCode": 51,
+  "versionName": "0.14.37",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.37/DeerFree-v0.14.37-release.apk",
+  "sha256": "1e0dd28f1f726ce71fa09c424ac2fb0088894b2f5fa730c1d5946e42418b8196",
+  "notes": "主畫面本草綱目與金盆自取換位；縮小藍紫定位點光圈；懸浮金盆新增單組座標 Task_A／Task_A/B；懸浮開關改為一鍵顯示或隱藏。"
 }
