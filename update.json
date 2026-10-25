@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 45,
-  "versionName": "0.14.31",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.31/DeerFree-v0.14.31-release.apk",
-  "sha256": "2a4d7ad356ca030311100b719a69b52c32de1419631c9d4d41eaf217cfed965c",
-  "notes": "CAB 停止 Pikmin 改為最近使用上滑移除，不再使用強制停止；Tasker 仍控制 GPS ON/OFF。"
+  "versionCode": 46,
+  "versionName": "0.14.32",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.32/DeerFree-v0.14.32-release.apk",
+  "sha256": "93eb27e8db173990f6502e38d9f7ee42f26bd3fc976d709256f2672bcd5c2010",
+  "notes": "金盆自取 CAB 新增 Tasker／全無障礙 GPS 控制模式，選取座標時可選並取消返回保留輸入；全無障礙正式版需定位開關放第一頁。"
 }
