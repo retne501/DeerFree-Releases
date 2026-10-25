@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 52,
-  "versionName": "0.14.38",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.38/DeerFree-v0.14.38-release.apk",
-  "sha256": "46b8f18fa3f5c6ca2bc68a7eb4a44333e63b236a80afde650e33d0f0f22af769",
-  "notes": "CAB C 增加資訊泡泡外框與下方花朵定位辨識，B 點花可採新鮮畫面確認的花朵位置；修正散步畫面判定；懸浮金盆可獨立啟動並主持 CAB，不再要求主程式畫面。"
+  "versionCode": 53,
+  "versionName": "0.14.39",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.39/DeerFree-v0.14.39-release.apk",
+  "sha256": "c71148eff40ce8f54b9ee431e2308d58d0b9028a1ba9eceeb1caabc582034e2d",
+  "notes": "FreeWay 介面更名 DeerFree；跳躍／同心圓設定視窗及 DeerFree 路徑管理、轉用選單對齊原版，加入長路徑分頁。"
 }
