@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 54,
-  "versionName": "0.14.40",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.40/DeerFree-v0.14.40-release.apk",
-  "sha256": "e730d24ccb9fcb2a3cb141812138a9984465e22fdc261869a24a6066566986b5",
-  "notes": "光速 1.6.8 原版版面與互動：新增海藍色可拖曳工具列、距離抓取、自動開關、辨識失敗手動選點與方向線預覽。實機光速定位尚待驗收，建議首次使用先關閉自動。"
+  "versionCode": 55,
+  "versionName": "0.14.41",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.41/DeerFree-v0.14.41-release.apk",
+  "sha256": "bb5764363fcf031b3dfbbe07366d3b877a452e56c7f51c63c0822a37cfbeebc8",
+  "notes": "CAB 散步風景辨識修正：首頁摘要卡延伸時保留指南針與上方三鍵的判定；修正 C 階段 GPS 訊息與舊批次診斷殘留，新增安全畫面特徵診斷。S24 全無障礙 CAB 兩組測試完成。"
 }
