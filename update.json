@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 46,
-  "versionName": "0.14.32",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.32/DeerFree-v0.14.32-release.apk",
-  "sha256": "93eb27e8db173990f6502e38d9f7ee42f26bd3fc976d709256f2672bcd5c2010",
-  "notes": "金盆自取 CAB 新增 Tasker／全無障礙 GPS 控制模式，選取座標時可選並取消返回保留輸入；全無障礙正式版需定位開關放第一頁。"
+  "versionCode": 47,
+  "versionName": "0.14.33",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.33/DeerFree-v0.14.33-release.apk",
+  "sha256": "c871a012eedcdf0e871d73864dbd81e6a37c2c431c30e7f087d2e03f5b3cd220",
+  "notes": "CAB 診斷紀錄可在主程式查看與主動匯出；正式授權提前續驗以減少進場操作中斷。Tasker／全無障礙雙模式保留。"
 }
