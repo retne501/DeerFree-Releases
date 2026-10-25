@@ -4,6 +4,6 @@
   "versionCode": 52,
   "versionName": "0.14.38",
   "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.38/DeerFree-v0.14.38-release.apk",
-  "sha256": "3afbd335626988fbda452e341d80ce71894a5f92cb73ae008ab04825d8de9106",
+  "sha256": "46b8f18fa3f5c6ca2bc68a7eb4a44333e63b236a80afde650e33d0f0f22af769",
   "notes": "CAB C 增加資訊泡泡外框與下方花朵定位辨識，B 點花可採新鮮畫面確認的花朵位置；修正散步畫面判定；懸浮金盆可獨立啟動並主持 CAB，不再要求主程式畫面。"
 }
