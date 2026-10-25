@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 53,
-  "versionName": "0.14.39",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.39/DeerFree-v0.14.39-release.apk",
-  "sha256": "c71148eff40ce8f54b9ee431e2308d58d0b9028a1ba9eceeb1caabc582034e2d",
-  "notes": "FreeWay 介面更名 DeerFree；跳躍／同心圓設定視窗及 DeerFree 路徑管理、轉用選單對齊原版，加入長路徑分頁。"
+  "versionCode": 54,
+  "versionName": "0.14.40",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.40/DeerFree-v0.14.40-release.apk",
+  "sha256": "e730d24ccb9fcb2a3cb141812138a9984465e22fdc261869a24a6066566986b5",
+  "notes": "光速 1.6.8 原版版面與互動：新增海藍色可拖曳工具列、距離抓取、自動開關、辨識失敗手動選點與方向線預覽。實機光速定位尚待驗收，建議首次使用先關閉自動。"
 }
