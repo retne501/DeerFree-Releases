@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 44,
-  "versionName": "0.14.30",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.30/DeerFree-v0.14.30-release.apk",
-  "sha256": "2c41508ce8f2450349730d5e1e62a4333c9f53644fb0af23c9c5e292c508c9fe",
-  "notes": "金盆自取 B 連點延長為 7 秒，四鍵操作與空白座標輸入；主程式及懸浮搜尋後可選擇定位操作。"
+  "versionCode": 45,
+  "versionName": "0.14.31",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.31/DeerFree-v0.14.31-release.apk",
+  "sha256": "2a4d7ad356ca030311100b719a69b52c32de1419631c9d4d41eaf217cfed965c",
+  "notes": "CAB 停止 Pikmin 改為最近使用上滑移除，不再使用強制停止；Tasker 仍控制 GPS ON/OFF。"
 }
