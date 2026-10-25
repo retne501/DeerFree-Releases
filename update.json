@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 56,
-  "versionName": "0.14.42",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.42/DeerFree-v0.14.42-release.apk",
-  "sha256": "16631754d3f1f150b38895a5a35d482e31159f3d8deaea655c4d70e893a50351",
-  "notes": "CAB 進場新增指南針、散步／地圖按鈕圖型辨識與圖示中心定位，顏色規則作備援；保留既有前景、公告與連續畫面安全門檻。S24 影像回歸測試通過，朋友手機 E2E 尚待驗收。"
+  "versionCode": 57,
+  "versionName": "0.14.43",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.43/DeerFree-v0.14.43-release.apk",
+  "sha256": "e617a31605d28c20fe870eed7df650853ff8975b6af8353712927892f0c0964d",
+  "notes": "CAB 進場修正指南針點擊時效，畫面過期時安全重新確認並重試；保留啟動公告與重複點擊保護。S24 全流程實測尚待驗收。"
 }
