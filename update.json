@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 57,
-  "versionName": "0.14.43",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.43/DeerFree-v0.14.43-release.apk",
-  "sha256": "e617a31605d28c20fe870eed7df650853ff8975b6af8353712927892f0c0964d",
-  "notes": "CAB 進場修正指南針點擊時效，畫面過期時安全重新確認並重試；保留啟動公告與重複點擊保護。S24 全流程實測尚待驗收。"
+  "versionCode": 58,
+  "versionName": "0.14.44",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.44/DeerFree-v0.14.44-release.apk",
+  "sha256": "a5d493a1fedd64a65d8031478571dd84beaf12c1c4b9f284d92da2d1c1e2996e",
+  "notes": "CAB 散步場景確認可接受較長的影像辨識時間，避免已進入散步畫面卻反覆逾時；保留原有前景、公告、雙影格與點擊安全檢查。S24 完整 CAB 流程待實機驗收。"
 }
