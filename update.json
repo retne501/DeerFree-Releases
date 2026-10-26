@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 77,
-  "versionName": "1.14.63",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.63/DeerFree-v1.14.63-release.apk",
-  "sha256": "dd006537d7615ce6a4aa2ca669615c8de1da6276526782cf5fcc8ed7e6692f42",
-  "notes": "新增 CAB 執行結果歷史，保留最近 20 批的執行時間、模式、各座標成功／失敗／未執行結果與原因，可複製失敗座標。保留既有 CAB GPS、指南針、大型植物辨識、重試與導覽列相容性。請覆蓋更新，勿解除安裝。"
+  "versionCode": 78,
+  "versionName": "1.14.64",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.64/DeerFree-v1.14.64-release.apk",
+  "sha256": "9e36bd43d96929ddb3a50eb4e51cc5322d21bc9780c6bf95a9d6cb4f22331dbe",
+  "notes": "優化光速「前往」：目標預覽預先解析時區、首次 Google Fused 定位初始化加速、啟動失敗有限次重試，新增毫秒級定位診斷；CAB、路線、搖桿與原 100/250ms 定位更新節奏不變。S24 已成功覆蓋安裝，人物顯示速度待實測。請直接覆蓋更新，勿解除安裝。"
 }
