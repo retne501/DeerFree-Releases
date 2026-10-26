@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 60,
-  "versionName": "0.14.46",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.46/DeerFree-v0.14.46-release.apk",
-  "sha256": "1a1ebbeb7290eecbc67b28538ea18153b975a0f8229f5df2985c6fd32e0c8e40",
-  "notes": "CAB C 階段增加金花畫面辨識時間，優先依贊助對話框尾端對應的花苞進行雙影格確認，增加無座標診斷。S24 完整 CAB 收花仍待驗收。"
+  "versionCode": 77,
+  "versionName": "1.14.63",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.63/DeerFree-v1.14.63-release.apk",
+  "sha256": "dd006537d7615ce6a4aa2ca669615c8de1da6276526782cf5fcc8ed7e6692f42",
+  "notes": "新增 CAB 執行結果歷史，保留最近 20 批的執行時間、模式、各座標成功／失敗／未執行結果與原因，可複製失敗座標。保留既有 CAB GPS、指南針、大型植物辨識、重試與導覽列相容性。請覆蓋更新，勿解除安裝。"
 }
