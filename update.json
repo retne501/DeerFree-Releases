@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 59,
-  "versionName": "0.14.45",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.45/DeerFree-v0.14.45-release.apk",
-  "sha256": "65081d628c07e8fa5dd92b911b43aed42cff3d285c9d0be3a378bcb88f7e6011",
-  "notes": "CAB 進入散步畫面後延長已選取 WALK 畫面的兩張影格確認時效，避免手機畫面分析延遲引起逾時；HOME 與地圖按鍵維持較嚴的檢查。S24 完整 CAB 流程尚待實機驗收。"
+  "versionCode": 60,
+  "versionName": "0.14.46",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v0.14.46/DeerFree-v0.14.46-release.apk",
+  "sha256": "1a1ebbeb7290eecbc67b28538ea18153b975a0f8229f5df2985c6fd32e0c8e40",
+  "notes": "CAB C 階段增加金花畫面辨識時間，優先依贊助對話框尾端對應的花苞進行雙影格確認，增加無座標診斷。S24 完整 CAB 收花仍待驗收。"
 }
