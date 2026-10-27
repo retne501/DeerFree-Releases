@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 78,
-  "versionName": "1.14.64",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.64/DeerFree-v1.14.64-release.apk",
-  "sha256": "9e36bd43d96929ddb3a50eb4e51cc5322d21bc9780c6bf95a9d6cb4f22331dbe",
-  "notes": "優化光速「前往」：目標預覽預先解析時區、首次 Google Fused 定位初始化加速、啟動失敗有限次重試，新增毫秒級定位診斷；CAB、路線、搖桿與原 100/250ms 定位更新節奏不變。S24 已成功覆蓋安裝，人物顯示速度待實測。請直接覆蓋更新，勿解除安裝。"
+  "versionCode": 79,
+  "versionName": "1.14.65",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.65/DeerFree-v1.14.65-release.apk",
+  "sha256": "e76dabc9bc228fd69ca6ac210303223baec27812060912d3e1b787a0ee7c9bbc",
+  "notes": "改善剪貼簿座標接收與浮球手動讀取，避免舊座標突然自動定位；放大懸浮停止鍵圖示，地標資訊卡可新增及選取分類。受 Android 背景剪貼簿限制，部分情況需點鹿頭接收。請直接覆蓋更新，勿解除安裝。"
 }
