@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 89,
-  "versionName": "1.14.75",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.75/DeerFree-v1.14.75-release.apk",
-  "sha256": "aa98368db2e8e2a60e9371fc7ffbc00d6a9d35a38eaa7d54b964b143205ec619",
-  "notes": "修正資料夾地標點擊、插入式拖曳排序、分享/編輯與圓角視窗；自動記錄地標 30 公尺沿用與自動記錄分類；隨機路線自訂數字鍵盤。請直接覆蓋安裝，勿解除安裝或清除資料。"
+  "versionCode": 90,
+  "versionName": "1.14.76",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.76/DeerFree-v1.14.76-release.apk",
+  "sha256": "346c68a8147ba2b510bb90092e7c290d7b0090d9aec35977edc5bd25f21cc052",
+  "notes": "新地標預設使用經緯度反查的地區名稱；同一座標可分別收藏到不同分類（加入分類會保留原地標）；隨機路線自訂範圍與長度的數字輸入已修正。請直接覆蓋更新，勿解除安裝。"
 }
