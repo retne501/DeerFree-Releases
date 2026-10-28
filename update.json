@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 80,
-  "versionName": "1.14.66",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.66/DeerFree-v1.14.66-release.apk",
-  "sha256": "18fdecfdb02fafc03e9d837990eda7763a81e64b91a16941979aeb707912b9f3",
-  "notes": "更新科技螢光綠鹿頭與懸浮球；停止虛擬 GPS 對齊 MR，改善真實定位恢復確認；剪貼簿座標採 MR 1.6.9 流程；保留 Google Maps 縮放鍵、自由路線提示及地標分類。Android 背景剪貼簿仍可能受系統限制。請直接覆蓋安裝，勿解除安裝。"
+  "versionCode": 81,
+  "versionName": "1.14.67",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.67/DeerFree-v1.14.67-release.apk",
+  "sha256": "a7f4a310d71df17fdd332fa10f22c6bc44b762fc2911e74483dd66679707a685",
+  "notes": "新增虛擬定位時藍色無斜線定位圖釘呼吸燈、停止確認後紅色靜止斜線。整合 MR 1.6.9 大型懸浮地圖、點選建立路線與底部功能列、螢光綠鹿頭動態光環及置中修正。請直接覆蓋更新，勿解除安裝。"
 }
