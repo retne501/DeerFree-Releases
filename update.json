@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 81,
-  "versionName": "1.14.67",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.67/DeerFree-v1.14.67-release.apk",
-  "sha256": "a7f4a310d71df17fdd332fa10f22c6bc44b762fc2911e74483dd66679707a685",
-  "notes": "新增虛擬定位時藍色無斜線定位圖釘呼吸燈、停止確認後紅色靜止斜線。整合 MR 1.6.9 大型懸浮地圖、點選建立路線與底部功能列、螢光綠鹿頭動態光環及置中修正。請直接覆蓋更新，勿解除安裝。"
+  "versionCode": 86,
+  "versionName": "1.14.72",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.72/DeerFree-v1.14.72-release.apk",
+  "sha256": "2b4d55bfbdaf031145431445ef5a168b6900aed7bfa9999a94f8f91d65408b79",
+  "notes": "MR 1.6.9 懸浮地圖長按定位、地標分類與同心圓操作對齊；新增定位歷史保留地標名稱、懸浮搜尋及地圖顯示改善。請直接覆蓋更新，勿解除安裝。"
 }
