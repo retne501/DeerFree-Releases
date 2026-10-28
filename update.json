@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 79,
-  "versionName": "1.14.65",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.65/DeerFree-v1.14.65-release.apk",
-  "sha256": "e76dabc9bc228fd69ca6ac210303223baec27812060912d3e1b787a0ee7c9bbc",
-  "notes": "改善剪貼簿座標接收與浮球手動讀取，避免舊座標突然自動定位；放大懸浮停止鍵圖示，地標資訊卡可新增及選取分類。受 Android 背景剪貼簿限制，部分情況需點鹿頭接收。請直接覆蓋更新，勿解除安裝。"
+  "versionCode": 80,
+  "versionName": "1.14.66",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.66/DeerFree-v1.14.66-release.apk",
+  "sha256": "18fdecfdb02fafc03e9d837990eda7763a81e64b91a16941979aeb707912b9f3",
+  "notes": "更新科技螢光綠鹿頭與懸浮球；停止虛擬 GPS 對齊 MR，改善真實定位恢復確認；剪貼簿座標採 MR 1.6.9 流程；保留 Google Maps 縮放鍵、自由路線提示及地標分類。Android 背景剪貼簿仍可能受系統限制。請直接覆蓋安裝，勿解除安裝。"
 }
