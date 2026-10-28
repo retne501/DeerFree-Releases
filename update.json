@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 88,
-  "versionName": "1.14.74",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.74/DeerFree-v1.14.74-release.apk",
-  "sha256": "7231088ad9017cb43f6cb4ca68d45e7d50bdaca3130a58356157856e3200e94d",
-  "notes": "修正主程式路徑載入／確定底部按鍵未顯示，恢復 Google Maps 正式版設定；MR 1.7.0 路徑功能保留。請直接覆蓋更新，勿解除安裝。"
+  "versionCode": 89,
+  "versionName": "1.14.75",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.75/DeerFree-v1.14.75-release.apk",
+  "sha256": "aa98368db2e8e2a60e9371fc7ffbc00d6a9d35a38eaa7d54b964b143205ec619",
+  "notes": "修正資料夾地標點擊、插入式拖曳排序、分享/編輯與圓角視窗；自動記錄地標 30 公尺沿用與自動記錄分類；隨機路線自訂數字鍵盤。請直接覆蓋安裝，勿解除安裝或清除資料。"
 }
