@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 86,
-  "versionName": "1.14.72",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.72/DeerFree-v1.14.72-release.apk",
-  "sha256": "2b4d55bfbdaf031145431445ef5a168b6900aed7bfa9999a94f8f91d65408b79",
-  "notes": "MR 1.6.9 懸浮地圖長按定位、地標分類與同心圓操作對齊；新增定位歷史保留地標名稱、懸浮搜尋及地圖顯示改善。請直接覆蓋更新，勿解除安裝。"
+  "versionCode": 87,
+  "versionName": "1.14.73",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.73/DeerFree-v1.14.73-release.apk",
+  "sha256": "5f21968dc5a9fe629d1e52e12ca52acee672a1d79ed4f981e4e04b9aa8caae0e",
+  "notes": "MR 1.7.0 五種路徑與主程式、懸浮路徑操作對齊；修正路徑載入與確定按鍵，收藏路線支援名稱、分類與新增分類。請直接覆蓋更新，勿解除安裝。"
 }
