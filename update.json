@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 95,
-  "versionName": "1.15.1",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.1/DeerFree-v1.15.1-release.apk",
-  "sha256": "7d2287325cc6bfc0edfcf889193ec4e2e574bacd7787322ce6040169e51c1d7f",
-  "notes": "v1.15.1｜MR 1.7.0 種花／跳躍預覽恢復中心連線及獨立 Guide，同心圓 37 點/層與自動取景；Google/Leaflet 更新並換上銀白金屬鹿頭 App Logo。保留 Runner／瞬移／GPS 行為；S24 詳細路線測試由使用者自行驗收。請直接覆蓋安裝，勿解除安裝或清除資料。"
+  "versionCode": 96,
+  "versionName": "1.15.2",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.2/DeerFree-v1.15.2-release.apk",
+  "sha256": "2131e02ac2d84c8128c16afb910ab5f765cfcf42c0050650704d7c738ea10bdc",
+  "notes": "v1.15.2｜資料夾長按拖曳採 MR 風格虛線插入提示；相同地標座標可跨分類儲存，全部分類僅顯示一筆；模擬歷史定位、播放與刪除鍵縮小並改善留白；包含 v1.15.1 路線及無障礙 P0 修正。請直接覆蓋安裝，勿解除安裝或清資料；細部功能仍需 S24 手動驗收。"
 }
