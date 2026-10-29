@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 94,
-  "versionName": "1.15.0",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.0/DeerFree-v1.15.0-release.apk",
-  "sha256": "ef28abc78a0c01de1925d6ae912f11e60f871ff96a6a9e3566a312ea9f6d79b7",
-  "notes": "v1.15.0｜種花／跳躍產生路線後地圖自動移至路線範圍；主程式與懸浮地圖同步；不會因單純產生路徑而啟動虛擬 GPS。保留 1.14.79 懸浮鹿頭與其他功能。請直接覆蓋安裝，勿解除安裝。"
+  "versionCode": 95,
+  "versionName": "1.15.1",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.1/DeerFree-v1.15.1-release.apk",
+  "sha256": "7d2287325cc6bfc0edfcf889193ec4e2e574bacd7787322ce6040169e51c1d7f",
+  "notes": "v1.15.1｜MR 1.7.0 種花／跳躍預覽恢復中心連線及獨立 Guide，同心圓 37 點/層與自動取景；Google/Leaflet 更新並換上銀白金屬鹿頭 App Logo。保留 Runner／瞬移／GPS 行為；S24 詳細路線測試由使用者自行驗收。請直接覆蓋安裝，勿解除安裝或清除資料。"
 }
