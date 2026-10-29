@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 93,
-  "versionName": "1.14.79",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.79/DeerFree-v1.14.79-release.apk",
-  "sha256": "551cc0fe1fa827ba79ea8dc1e3efed451691ea35426364f891122581929ad2ca",
-  "notes": "全面統一斜放 D.r11 鹿頭徽章：App 一般與圓形圖示、懸浮球中央及懸浮面板圖示使用同一張置中素材，保留螢光綠慢轉、定位亮粉色原速。保留 v1.14.78 歷史種花／跳躍載入和播放修正。請覆蓋安裝勿解除安裝。"
+  "versionCode": 94,
+  "versionName": "1.15.0",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.0/DeerFree-v1.15.0-release.apk",
+  "sha256": "ef28abc78a0c01de1925d6ae912f11e60f871ff96a6a9e3566a312ea9f6d79b7",
+  "notes": "v1.15.0｜種花／跳躍產生路線後地圖自動移至路線範圍；主程式與懸浮地圖同步；不會因單純產生路徑而啟動虛擬 GPS。保留 1.14.79 懸浮鹿頭與其他功能。請直接覆蓋安裝，勿解除安裝。"
 }
