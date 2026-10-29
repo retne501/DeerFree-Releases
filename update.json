@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 90,
-  "versionName": "1.14.76",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.76/DeerFree-v1.14.76-release.apk",
-  "sha256": "346c68a8147ba2b510bb90092e7c290d7b0090d9aec35977edc5bd25f21cc052",
-  "notes": "新地標預設使用經緯度反查的地區名稱；同一座標可分別收藏到不同分類（加入分類會保留原地標）；隨機路線自訂範圍與長度的數字輸入已修正。請直接覆蓋更新，勿解除安裝。"
+  "versionCode": 91,
+  "versionName": "1.14.77",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.77/DeerFree-v1.14.77-release.apk",
+  "sha256": "78b451ef81289895881fb41a60d807ed1c358bf5b437d6acd4bfb2da6c753cbe",
+  "notes": "模擬歷史紀錄改成 MR 緊湊版面：操作鍵與座標時間同排、視窗縮窄；資料夾地標及路線支援長按拖曳排序、插入位置提示與自動捲動。請直接覆蓋更新，勿解除安裝。"
 }
