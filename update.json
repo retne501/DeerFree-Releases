@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 96,
-  "versionName": "1.15.2",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.2/DeerFree-v1.15.2-release.apk",
-  "sha256": "2131e02ac2d84c8128c16afb910ab5f765cfcf42c0050650704d7c738ea10bdc",
-  "notes": "v1.15.2｜資料夾長按拖曳採 MR 風格虛線插入提示；相同地標座標可跨分類儲存，全部分類僅顯示一筆；模擬歷史定位、播放與刪除鍵縮小並改善留白；包含 v1.15.1 路線及無障礙 P0 修正。請直接覆蓋安裝，勿解除安裝或清資料；細部功能仍需 S24 手動驗收。"
+  "versionCode": 97,
+  "versionName": "1.15.3",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.3/DeerFree-v1.15.3-release.apk",
+  "sha256": "7cae2ae9a724fb4d2350ea1a2615408118737f05e90086dc06f56dff5e54b263",
+  "notes": "v1.15.3｜MR 1.7.0 長按地標卡拖曳改為浮動卡片及清單即時讓位，放手才保存；起點資訊／路徑點資訊點座標直接複製，不再跳出「收到新座標」頁面。保留既有資料、無障礙 P0 和 GPS 行為；直接同簽章覆蓋安裝，勿清除資料。S24 手指操作仍待驗收。"
 }
