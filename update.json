@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 92,
-  "versionName": "1.14.78",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.78/DeerFree-v1.14.78-release.apk",
-  "sha256": "6d9b48dd8f630821c8b42c2d7999fc1539c6e6ee801915154c6e84e7ce86d4ec",
-  "notes": "MR 歷史種花／跳躍路徑實際載入與播放修正、模擬開始功能列下移、停止返回實際 GPS、地圖真實軌跡預覽；D.r11 斜放鹿徽章置中；未定位綠色 18 秒／圈，模擬定位亮粉色 6.5 秒／圈。請直接覆蓋更新，勿解除安裝。"
+  "versionCode": 93,
+  "versionName": "1.14.79",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.79/DeerFree-v1.14.79-release.apk",
+  "sha256": "551cc0fe1fa827ba79ea8dc1e3efed451691ea35426364f891122581929ad2ca",
+  "notes": "全面統一斜放 D.r11 鹿頭徽章：App 一般與圓形圖示、懸浮球中央及懸浮面板圖示使用同一張置中素材，保留螢光綠慢轉、定位亮粉色原速。保留 v1.14.78 歷史種花／跳躍載入和播放修正。請覆蓋安裝勿解除安裝。"
 }
