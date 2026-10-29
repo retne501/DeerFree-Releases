@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 91,
-  "versionName": "1.14.77",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.77/DeerFree-v1.14.77-release.apk",
-  "sha256": "78b451ef81289895881fb41a60d807ed1c358bf5b437d6acd4bfb2da6c753cbe",
-  "notes": "模擬歷史紀錄改成 MR 緊湊版面：操作鍵與座標時間同排、視窗縮窄；資料夾地標及路線支援長按拖曳排序、插入位置提示與自動捲動。請直接覆蓋更新，勿解除安裝。"
+  "versionCode": 92,
+  "versionName": "1.14.78",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.14.78/DeerFree-v1.14.78-release.apk",
+  "sha256": "6d9b48dd8f630821c8b42c2d7999fc1539c6e6ee801915154c6e84e7ce86d4ec",
+  "notes": "MR 歷史種花／跳躍路徑實際載入與播放修正、模擬開始功能列下移、停止返回實際 GPS、地圖真實軌跡預覽；D.r11 斜放鹿徽章置中；未定位綠色 18 秒／圈，模擬定位亮粉色 6.5 秒／圈。請直接覆蓋更新，勿解除安裝。"
 }
