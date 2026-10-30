@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 100,
-  "versionName": "1.15.6",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.6/DeerFree-v1.15.6-release.apk",
-  "sha256": "cdd53b4690b1cfe3ccfc4aa5e406d68e51bbc39df5fb44d5a963af528ee6b92f",
-  "notes": "v1.15.6｜地標圖示與四種尺寸、自訂圖片、智慧聚合（Google／OSM／懸浮同步）；資料夾路線／模擬歷史／路線紀錄 ▶ 對齊 MR 1.7.0，選定起點後真正開始 Runner 並收合面板。CAB、GPS、Runner 核心及首次啟用後本機永久授權不變。請同簽章覆蓋安裝，勿清除資料；S24 真機功能待驗收。"
+  "versionCode": 102,
+  "versionName": "1.15.8",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.8/DeerFree-v1.15.8-release.apk",
+  "sha256": "e0bcb2dddbb8f9b44c9b42c2907d28883bc0f26449ae718ca5cb5f3aa2ce510a",
+  "notes": "v1.15.8｜懸浮設定按 MR 1.7.0 對齊：主題色獨立、拖曳排序即存、跨日/搖桿/路線步數修正；點苗自動取座標改開關式，快／標準／穩定速度與座標接收動作。保留 CAB、Runner、GPS 與本機永久授權。請同簽章覆蓋安裝，勿清資料；真實 Pikmin 連續點苗及部分介面仍需 S24 實機驗收。"
 }
