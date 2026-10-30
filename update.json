@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 99,
-  "versionName": "1.15.5",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.5/DeerFree-v1.15.5-release.apk",
-  "sha256": "3b4f93379d14f2f5979752f8727739c69a43a4291d86585366d0f0ebaeec8542",
-  "notes": "v1.15.5｜MR 風格同心圓智慧標記：縮放自動減少重疊編號（44px 避讓、最多 28 個）、中心／起點／選取點優先；Google 與 OSM／懸浮地圖一致。完整路線、每圈 37 點、Runner、CAB、GPS 與永久本機授權不變。請同簽章覆蓋安裝，勿清資料；S24 實機 UI／GPS 仍需驗收。"
+  "versionCode": 100,
+  "versionName": "1.15.6",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.6/DeerFree-v1.15.6-release.apk",
+  "sha256": "cdd53b4690b1cfe3ccfc4aa5e406d68e51bbc39df5fb44d5a963af528ee6b92f",
+  "notes": "v1.15.6｜地標圖示與四種尺寸、自訂圖片、智慧聚合（Google／OSM／懸浮同步）；資料夾路線／模擬歷史／路線紀錄 ▶ 對齊 MR 1.7.0，選定起點後真正開始 Runner 並收合面板。CAB、GPS、Runner 核心及首次啟用後本機永久授權不變。請同簽章覆蓋安裝，勿清除資料；S24 真機功能待驗收。"
 }
