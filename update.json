@@ -5,5 +5,5 @@
   "versionName": "1.15.8",
   "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.8/DeerFree-v1.15.8-release.apk",
   "sha256": "e0bcb2dddbb8f9b44c9b42c2907d28883bc0f26449ae718ca5cb5f3aa2ce510a",
-  "notes": "v1.15.8｜懸浮設定按 MR 1.7.0 對齊：主題色獨立、拖曳排序即存、跨日/搖桿/路線步數修正；點苗自動取座標改開關式，快／標準／穩定速度與座標接收動作。保留 CAB、Runner、GPS 與本機永久授權。請同簽章覆蓋安裝，勿清資料；真實 Pikmin 連續點苗及部分介面仍需 S24 實機驗收。"
+  "notes": "新功能：點苗自動取座標（快／標準／穩定）、懸浮設定顏色與拖曳排序、路線步數快捷與數字鍵盤、地圖連結座標操作。"
 }
