@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 112,
-  "versionName": "1.15.18",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.18/DeerFree-v1.15.18-release.apk",
-  "sha256": "0eded5f6e180d7cf199f8016bf3744dcc49272c36eeb9d1bd1a111ebf738bcc7",
-  "notes": "新功能：CAB GPS 快捷面板辨識及 OPPO 相容性改善；地圖、懸浮與設定配色同步；主題顏色在選色視窗按確定後立即生效。"
+  "versionCode": 114,
+  "versionName": "1.16.0",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.0/DeerFree-v1.16.0-release.apk",
+  "sha256": "cdb0ca8e4be201b4cff32a9894b089b4093e13eb3f06c15ddbe18f7f4739a758",
+  "notes": "新功能：一般、隨機、種花與跳躍路線智慧座標編號，Google／OSM／懸浮地圖隨縮放動態顯示；保留同心圓專屬標記。"
 }
