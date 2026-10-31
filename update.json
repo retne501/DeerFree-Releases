@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 107,
-  "versionName": "1.15.13",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.13/DeerFree-v1.15.13-release.apk",
-  "sha256": "86834267dbeaa48eab7d4459895f5d81d61bb5031d71a55ec7f09ba5d0e89bd0",
-  "notes": "新功能：主題顏色和自訂色盤、主懸浮路線同步、清除路線保留位置、地標名稱分類、路線轉用／搬移、排程分享與虛擬搖桿小工具。"
+  "versionCode": 108,
+  "versionName": "1.15.14",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.15.14/DeerFree-v1.15.14-release.apk",
+  "sha256": "746fcd6c54dea74489a5cd36a81fd810a78cf12b791737abc0a2692c29c123be",
+  "notes": "新功能：恢復原本藍底白字與白色圖示；主程式和懸浮選色預覽改為實際預設色，保留自訂顏色高對比功能。"
 }
