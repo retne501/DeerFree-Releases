@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 114,
-  "versionName": "1.16.0",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.0/DeerFree-v1.16.0-release.apk",
-  "sha256": "cdb0ca8e4be201b4cff32a9894b089b4093e13eb3f06c15ddbe18f7f4739a758",
-  "notes": "新功能：一般、隨機、種花與跳躍路線智慧座標編號，Google／OSM／懸浮地圖隨縮放動態顯示；保留同心圓專屬標記。"
+  "versionCode": 115,
+  "versionName": "1.16.1",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.1/DeerFree-v1.16.1-release.apk",
+  "sha256": "0a9bde3b6104dfc420a0d83306e2583eaa90be779b8c88c5c371e0f50e383129",
+  "notes": "新功能：地標與路線分類可長按拖曳排序、放開即儲存，主程式與懸浮同步；移除未使用的幻影路徑、未分類路徑分類，原有路線與自訂分類保留。"
 }
