@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 116,
-  "versionName": "1.16.2",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.2/DeerFree-v1.16.2-release.apk",
-  "sha256": "c829a2fba6b838ec596cebefcd23c0e6b69a511e74271e82552e549445b3e401",
-  "notes": "新功能：主程式與懸浮搜尋對齊 MR 1.7.1；小地圖新增搜尋與定位；種花排程 S 型／直線尺寸獨立；同心圓中心座標修正；五種路徑與最佳化依 MR 1.7.1 操作。"
+  "versionCode": 117,
+  "versionName": "1.16.3",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.3/DeerFree-v1.16.3-release.apk",
+  "sha256": "e62283e1b421d31a34c741ebbe964880bdd4ef2b940c0111ca5798aa1a073357",
+  "notes": "資料夾 MR 1.7.1 對齊：主程式地標真正定位及跨日檢查；主／懸浮雙指批次選取；懸浮路線編輯二選單；批次分類可即時新增；多選刪除分類保留資料；懸浮匯入／匯出及深淺色、按鍵排列改善。"
 }
