@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 118,
-  "versionName": "1.16.4",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.4/DeerFree-v1.16.4-release.apk",
-  "sha256": "73d7c17a91691bad2b4d367692e374355ff73c46dcd8dff7e66c3e8077d3b725",
-  "notes": "多格式座標貼上自動辨識：DD/DMM/DMS、UTM、MGRS、TWD97 TM2、完整 Plus Code、Google/OSM 座標連結；新增 KML 與 GeoJSON 路線匯入。地標與路線仍以 WGS84 十進位緯度、經度儲存。"
+  "versionCode": 119,
+  "versionName": "1.16.5",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.5/DeerFree-v1.16.5-release.apk",
+  "sha256": "d0a0f94eb756dd2cf8d2f7c7303c864de5e2afbd5a9af00aa709a361abb3f50c",
+  "notes": "資料夾路線編輯對齊 MR 1.7.2：主程式與懸浮新增共用多行座標編輯、全部清除與貼上剪貼簿；無效行提示、等待與瞬移資料安全對應、閉合路線保護；改善資料夾多選、收藏／取消收藏、搜尋及深淺色版面。不含影片批次模式功能。"
 }
