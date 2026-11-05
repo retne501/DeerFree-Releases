@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 119,
-  "versionName": "1.16.5",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.5/DeerFree-v1.16.5-release.apk",
-  "sha256": "d0a0f94eb756dd2cf8d2f7c7303c864de5e2afbd5a9af00aa709a361abb3f50c",
-  "notes": "資料夾路線編輯對齊 MR 1.7.2：主程式與懸浮新增共用多行座標編輯、全部清除與貼上剪貼簿；無效行提示、等待與瞬移資料安全對應、閉合路線保護；改善資料夾多選、收藏／取消收藏、搜尋及深淺色版面。不含影片批次模式功能。"
+  "versionCode": 120,
+  "versionName": "1.16.6",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.6/DeerFree-v1.16.6-release.apk",
+  "sha256": "36816bec44035fc8ee362ea8b05d49cde14a166e23409f03d3cecd6b6f1d2007",
+  "notes": "修正懸浮地圖手勢傳遞：Google Maps／OpenStreetMap 地圖畫布可完整接收單指拖曳與雙指縮放，避免外層視窗攔截；保留標題列拖動視窗、地圖點擊與長按功能。不改動 GPS、路線與資料夾資料。不含影片批次模式。S24 實機操作待驗收。"
 }
