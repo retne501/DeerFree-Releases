@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 120,
-  "versionName": "1.16.6",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.6/DeerFree-v1.16.6-release.apk",
-  "sha256": "36816bec44035fc8ee362ea8b05d49cde14a166e23409f03d3cecd6b6f1d2007",
-  "notes": "修正懸浮地圖手勢傳遞：Google Maps／OpenStreetMap 地圖畫布可完整接收單指拖曳與雙指縮放，避免外層視窗攔截；保留標題列拖動視窗、地圖點擊與長按功能。不改動 GPS、路線與資料夾資料。不含影片批次模式。S24 實機操作待驗收。"
+  "versionCode": 123,
+  "versionName": "1.16.9",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.9/DeerFree-v1.16.9-release.apk",
+  "sha256": "f52826d3848774244dc40c9ef1dfeb22c63657fcb272fddc0e690317af58360b",
+  "notes": "MR 1.7.3 本機功能對齊：光速 OCR／指針與候選辨識、一般／種花／跳躍路線編輯畫面，以及主程式／懸浮資料夾分類、清單、按鍵和配色調整。沿用原正式憑證，資料及授權不變。雲端團體房間不包含在內；懸浮與深色模式完整實機驗收持續進行。"
 }
