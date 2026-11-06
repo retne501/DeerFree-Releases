@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 123,
-  "versionName": "1.16.9",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.16.9/DeerFree-v1.16.9-release.apk",
-  "sha256": "f52826d3848774244dc40c9ef1dfeb22c63657fcb272fddc0e690317af58360b",
-  "notes": "MR 1.7.3 本機功能對齊：光速 OCR／指針與候選辨識、一般／種花／跳躍路線編輯畫面，以及主程式／懸浮資料夾分類、清單、按鍵和配色調整。沿用原正式憑證，資料及授權不變。雲端團體房間不包含在內；懸浮與深色模式完整實機驗收持續進行。"
+  "versionCode": 126,
+  "versionName": "1.17.0",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.0/DeerFree-v1.17.0-release.apk",
+  "sha256": "c1f1b9ccef3c2b20dcc14265972964bd3f8748202ad79467b6bd6042a6885113",
+  "notes": "DeerFree 1.17.0：光速更名為光追；光追手動距離輸入卡片對齊 MR 1.7.3，改善 S24 懸浮輸入焦點與鍵盤顯示；距離 OCR 失敗後輸入可沿用本次截圖。沿用正式簽章、保留原資料。更新前請先停止執行中的路線與虛擬定位；新版 S24 鍵盤與全流程實機驗收持續進行。"
 }
