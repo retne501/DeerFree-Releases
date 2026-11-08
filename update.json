@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 137,
-  "versionName": "1.17.11",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.11/DeerFree-v1.17.11-release.apk",
-  "sha256": "621262ca867588b4586138b8d9f7d8bb41c332c440fbe93edcf3b55c1a0b9d03",
-  "notes": "DeerFree v1.17.11：CAB 跨境無礙改善 OPPO ColorOS 最近使用卡片辨識與滑除；CAB 懸浮新增「下一座標」，切換前確認前一筆已停妥及系統 GPS 啟用；歷史新增「使用者跳過」狀態。更新前請先停止執行中的 CAB、路線與虛擬定位；新手勢仍須 OPPO／S24 真機驗收。"
+  "versionCode": 138,
+  "versionName": "1.17.12",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.12/DeerFree-v1.17.12-release.apk",
+  "sha256": "f8274e3024d09f1141d2176d4a71630727cb76477e292803fac587ded7cf7dfe",
+  "notes": "DeerFree v1.17.12：新增座標時間四種模式（智慧自動／經度航海／地方平太陽時間／UTC），主畫面、懸浮與資料夾時間同步；長按時間可查看 IANA 時區與估算來源，保留短按切換日期。低記憶體、海域與南極可能採估算／參考時區；跨日安全機制不受顯示模式影響。更新前請先停止 CAB、路線與虛擬定位。"
 }
