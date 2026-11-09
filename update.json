@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 139,
-  "versionName": "1.17.13",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.13/DeerFree-v1.17.13-release.apk",
-  "sha256": "91d6741550a63a4b6764e1e11f6e5be8759bfe67b9bf2dcbd3259d2b77c2f048",
-  "notes": "DeerFree v1.17.13：Rust 低記憶體離線 SMART 時區引擎正式版，支援 IANA/DST、主畫面與懸浮/資料夾時間同步；經度航海、地方平太陽時間、UTC 三模式與跨日安全判斷維持原狀。新增 IANA/ODbL 來源資訊及南極海域參考標示。正式簽章、四 ABI；首次使用仍須邀請碼，已授權者保留本機永久授權。更新前先停止 CAB、路線與虛擬定位，請勿解除安裝或清除資料。"
+  "versionCode": 141,
+  "versionName": "1.17.15",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.15/DeerFree-v1.17.15-release.apk",
+  "sha256": "dd7da9964dad9c30415aa695f55b16e94942b2da7c3dee4b5c6c2b303d4cc810",
+  "notes": "DeerFree v1.17.15（Code141）：停止定位後待真正解除虛擬定位並取得新真實 GPS／網路位置，主地圖與懸浮地圖可各自回到實際位置；懸浮工具列停止、停止結果逾時與服務重啟穩定性改善。保留地圖搜尋／手動拖曳優先權，CAB／時區與邀請碼首次啟用規則不變。升級前請先停止 CAB、路線與虛擬定位；以原正式簽章覆蓋升級，勿解除安裝或清除資料。"
 }
