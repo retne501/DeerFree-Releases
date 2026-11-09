@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 138,
-  "versionName": "1.17.12",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.12/DeerFree-v1.17.12-release.apk",
-  "sha256": "f8274e3024d09f1141d2176d4a71630727cb76477e292803fac587ded7cf7dfe",
-  "notes": "DeerFree v1.17.12：新增座標時間四種模式（智慧自動／經度航海／地方平太陽時間／UTC），主畫面、懸浮與資料夾時間同步；長按時間可查看 IANA 時區與估算來源，保留短按切換日期。低記憶體、海域與南極可能採估算／參考時區；跨日安全機制不受顯示模式影響。更新前請先停止 CAB、路線與虛擬定位。"
+  "versionCode": 139,
+  "versionName": "1.17.13",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.13/DeerFree-v1.17.13-release.apk",
+  "sha256": "91d6741550a63a4b6764e1e11f6e5be8759bfe67b9bf2dcbd3259d2b77c2f048",
+  "notes": "DeerFree v1.17.13：Rust 低記憶體離線 SMART 時區引擎正式版，支援 IANA/DST、主畫面與懸浮/資料夾時間同步；經度航海、地方平太陽時間、UTC 三模式與跨日安全判斷維持原狀。新增 IANA/ODbL 來源資訊及南極海域參考標示。正式簽章、四 ABI；首次使用仍須邀請碼，已授權者保留本機永久授權。更新前先停止 CAB、路線與虛擬定位，請勿解除安裝或清除資料。"
 }
