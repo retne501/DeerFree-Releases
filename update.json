@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 141,
-  "versionName": "1.17.15",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.15/DeerFree-v1.17.15-release.apk",
-  "sha256": "dd7da9964dad9c30415aa695f55b16e94942b2da7c3dee4b5c6c2b303d4cc810",
-  "notes": "DeerFree v1.17.15（Code141）：停止定位後待真正解除虛擬定位並取得新真實 GPS／網路位置，主地圖與懸浮地圖可各自回到實際位置；懸浮工具列停止、停止結果逾時與服務重啟穩定性改善。保留地圖搜尋／手動拖曳優先權，CAB／時區與邀請碼首次啟用規則不變。升級前請先停止 CAB、路線與虛擬定位；以原正式簽章覆蓋升級，勿解除安裝或清除資料。"
+  "versionCode": 143,
+  "versionName": "1.17.16",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.16/DeerFree-v1.17.16-release.apk",
+  "sha256": "18d5e19c7a6a1214468fab6cc4c123a1a4df92d0f9dcf46356f3b33ade9bf738",
+  "notes": "DeerFree v1.17.16（Code143）：Rust JNI 路線最佳化正式版。3–512 點優先使用 Rust，失敗時沿用 Java 備援；背景運算及舊結果防覆寫保護，超過 512 點保留原路線。維持 Rust SMART 時區、CAB、GPS 停止流程與邀請碼永久授權。升級前請先停止 CAB／路線與虛擬定位，再覆蓋升級，不要解除安裝或清除資料。"
 }
