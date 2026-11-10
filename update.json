@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 143,
-  "versionName": "1.17.16",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.16/DeerFree-v1.17.16-release.apk",
-  "sha256": "18d5e19c7a6a1214468fab6cc4c123a1a4df92d0f9dcf46356f3b33ade9bf738",
-  "notes": "DeerFree v1.17.16（Code143）：Rust JNI 路線最佳化正式版。3–512 點優先使用 Rust，失敗時沿用 Java 備援；背景運算及舊結果防覆寫保護，超過 512 點保留原路線。維持 Rust SMART 時區、CAB、GPS 停止流程與邀請碼永久授權。升級前請先停止 CAB／路線與虛擬定位，再覆蓋升級，不要解除安裝或清除資料。"
+  "versionCode": 144,
+  "versionName": "1.17.17",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.17/DeerFree-v1.17.17-release.apk",
+  "sha256": "8be89465d92f5f7a71f8c7f3aa2ab39f753b40647552b4f3615ff42447bb9e5a",
+  "notes": "DeerFree v1.17.17（Code144）：修正 541 點等大量同心圓座標在主程式／懸浮「轉用→導入跳躍路徑」遭 500 點限制拒絕；統一座標解析與大型路徑安全處理，主路徑頁超過120點採40點分頁，懸浮路徑清單與下方操作按鍵按 MR 1.7.3 調整。保留 Rust JNI 512點最佳化安全限制、CAB／GPS 與永久邀請碼授權。更新前先停止 CAB、執行中路線及虛擬定位；請用相同簽章覆蓋升級，不要解除安裝或清除資料。541點 Code144 真機記憶體/介面仍待使用者驗收。"
 }
