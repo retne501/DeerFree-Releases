@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 144,
-  "versionName": "1.17.17",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.17/DeerFree-v1.17.17-release.apk",
-  "sha256": "8be89465d92f5f7a71f8c7f3aa2ab39f753b40647552b4f3615ff42447bb9e5a",
-  "notes": "DeerFree v1.17.17（Code144）：修正 541 點等大量同心圓座標在主程式／懸浮「轉用→導入跳躍路徑」遭 500 點限制拒絕；統一座標解析與大型路徑安全處理，主路徑頁超過120點採40點分頁，懸浮路徑清單與下方操作按鍵按 MR 1.7.3 調整。保留 Rust JNI 512點最佳化安全限制、CAB／GPS 與永久邀請碼授權。更新前先停止 CAB、執行中路線及虛擬定位；請用相同簽章覆蓋升級，不要解除安裝或清除資料。541點 Code144 真機記憶體/介面仍待使用者驗收。"
+  "versionCode": 146,
+  "versionName": "1.17.18",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.18/DeerFree-v1.17.18-release.apk",
+  "sha256": "88e857c863256fa17a6233a8f2a2c95f79b4f7a56d3c376dd6a405827c2b4aec",
+  "notes": "DeerFree v1.17.18（Code146）：依 S24 實測結果正式發佈。對齊 MR 1.7.3 的路徑／跳躍路徑相關面板，修正懸浮編輯、金盆自取貼上座標與種花多行輸入的文字靠左上；舊 330×360dp 路線視窗僅精確一次遷移至 330×515dp，保留其他自訂尺寸。延續 Code144 的 541 點同心圓／跳躍導入與大型路線分頁安全保護。永久邀請碼、CAB／GPS、Rust SMART、512 點路線最佳化限制不變。不包含 Code147 Rust 大花辨識 Shadow Mode。升級前先停止 CAB、路線及虛擬定位，使用原正式簽章覆蓋安裝，勿卸載或清除資料。"
 }
