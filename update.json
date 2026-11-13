@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 146,
-  "versionName": "1.17.18",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.18/DeerFree-v1.17.18-release.apk",
-  "sha256": "88e857c863256fa17a6233a8f2a2c95f79b4f7a56d3c376dd6a405827c2b4aec",
-  "notes": "DeerFree v1.17.18（Code146）：依 S24 實測結果正式發佈。對齊 MR 1.7.3 的路徑／跳躍路徑相關面板，修正懸浮編輯、金盆自取貼上座標與種花多行輸入的文字靠左上；舊 330×360dp 路線視窗僅精確一次遷移至 330×515dp，保留其他自訂尺寸。延續 Code144 的 541 點同心圓／跳躍導入與大型路線分頁安全保護。永久邀請碼、CAB／GPS、Rust SMART、512 點路線最佳化限制不變。不包含 Code147 Rust 大花辨識 Shadow Mode。升級前先停止 CAB、路線及虛擬定位，使用原正式簽章覆蓋安裝，勿卸載或清除資料。"
+  "versionCode": 148,
+  "versionName": "1.17.20",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.20/DeerFree-v1.17.20-release.apk",
+  "sha256": "70d11b7a15d11e8e07405e18c3c4f2789b057b2269837c9744c8e422861a0dc9",
+  "notes": "DeerFree v1.17.20（Code148）：主程式資料夾定位後保留展開、高亮目前座標；對齊 MR1.7.4 光追操作、地圖縮小為「地」浮鈕、排程繞圈圈數、字體單行自動縮小；主程式資料夾／種花／跳躍等數值輸入改善；前兩圈開始時間、第二圈預估、分享第一圈／第二圈／不顯示。DeerFree 自有加密雲端後端尚未部署，預設停用，目前可用文字分享。不包含 Code147 Rust CAB Shadow。升級前請先停止 CAB、路線及虛擬定位，使用原正式簽章保留資料覆蓋更新，勿解除安裝。"
 }
