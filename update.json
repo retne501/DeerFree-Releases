@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 148,
-  "versionName": "1.17.20",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.20/DeerFree-v1.17.20-release.apk",
-  "sha256": "70d11b7a15d11e8e07405e18c3c4f2789b057b2269837c9744c8e422861a0dc9",
-  "notes": "DeerFree v1.17.20（Code148）：主程式資料夾定位後保留展開、高亮目前座標；對齊 MR1.7.4 光追操作、地圖縮小為「地」浮鈕、排程繞圈圈數、字體單行自動縮小；主程式資料夾／種花／跳躍等數值輸入改善；前兩圈開始時間、第二圈預估、分享第一圈／第二圈／不顯示。DeerFree 自有加密雲端後端尚未部署，預設停用，目前可用文字分享。不包含 Code147 Rust CAB Shadow。升級前請先停止 CAB、路線及虛擬定位，使用原正式簽章保留資料覆蓋更新，勿解除安裝。"
+  "versionCode": 149,
+  "versionName": "1.17.21",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.21/DeerFree-v1.17.21-release.apk",
+  "sha256": "749566a9667b20c27e77733884219d2b6ac0652f03ec09c1e8be79e0c17d5a2b",
+  "notes": "DeerFree v1.17.21（Code149）：新增菇情群組巡檢、菇種與附近數量記錄；修正進散步風景後第二次點擊返回鳥瞰流程；流程提示移至懸浮球旁；支援 .drmush.json 一鍵分享與匯入匯出；主程式與懸浮逐點立即定位、已定位與已停止標記。繼承 v1.17.20 功能。RC31 S24 已由使用者驗收，正式 package E2E 尚未另測。更新前停止 CAB、路線與虛擬定位；用原正式簽章保留資料覆蓋，勿解除安裝或清資料。"
 }
