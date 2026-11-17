@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 149,
-  "versionName": "1.17.21",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.21/DeerFree-v1.17.21-release.apk",
-  "sha256": "749566a9667b20c27e77733884219d2b6ac0652f03ec09c1e8be79e0c17d5a2b",
-  "notes": "DeerFree v1.17.21（Code149）：新增菇情群組巡檢、菇種與附近數量記錄；修正進散步風景後第二次點擊返回鳥瞰流程；流程提示移至懸浮球旁；支援 .drmush.json 一鍵分享與匯入匯出；主程式與懸浮逐點立即定位、已定位與已停止標記。繼承 v1.17.20 功能。RC31 S24 已由使用者驗收，正式 package E2E 尚未另測。更新前停止 CAB、路線與虛擬定位；用原正式簽章保留資料覆蓋，勿解除安裝或清資料。"
+  "versionCode": 151,
+  "versionName": "1.17.23",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.23/DeerFree-v1.17.23-release.apk",
+  "sha256": "605342d1a3631d323825e36f97878f8e597a16c0c75460224498d500ce86422f",
+  "notes": "DeerFree v1.17.23（Code151）：優化主程式與懸浮資料夾／菇情／歷史清單開啟效能；菇情加入巡檢失敗與未完成紀錄、菇種下拉分類及友善菇點名稱，取消附近數量統計；散步風景穩定後直接點下方中央菇（最快約1.5秒進行雙影格檢查），GPS換點後仍等待6秒並驗證地圖確實更新；改善一般地點公告辨識，駕駛安全聲明仍需本人確認。保留原正式簽章與使用者資料更新，不要解除安裝或清資料。Code151尚未完成S24實機端到端驗收。"
 }
