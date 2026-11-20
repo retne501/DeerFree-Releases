@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "available": true,
-  "versionCode": 151,
-  "versionName": "1.17.23",
-  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.23/DeerFree-v1.17.23-release.apk",
-  "sha256": "605342d1a3631d323825e36f97878f8e597a16c0c75460224498d500ce86422f",
-  "notes": "DeerFree v1.17.23（Code151）：優化主程式與懸浮資料夾／菇情／歷史清單開啟效能；菇情加入巡檢失敗與未完成紀錄、菇種下拉分類及友善菇點名稱，取消附近數量統計；散步風景穩定後直接點下方中央菇（最快約1.5秒進行雙影格檢查），GPS換點後仍等待6秒並驗證地圖確實更新；改善一般地點公告辨識，駕駛安全聲明仍需本人確認。保留原正式簽章與使用者資料更新，不要解除安裝或清資料。Code151尚未完成S24實機端到端驗收。"
+  "versionCode": 152,
+  "versionName": "1.17.24",
+  "apkUrl": "https://github.com/retne501/DeerFree-Releases/releases/download/deerfree-v1.17.24/DeerFree-v1.17.24-release.apk",
+  "sha256": "0b550574dd077da80442148ab309e8a32fde880da628594915df30e7d871c84a",
+  "notes": "DeerFree v1.17.24（Code152）：改善菇情辨識失敗後返回鳥瞰時不確認導致整批巡檢停止；在確認兩張穩定鳥瞰畫面後保留未完成紀錄並接續下一座標，新增有界被動恢復、S24 正向鳥瞰圖示辨識與不含座標的暫停診斷。保留 Code151 功能、GPS 後 6 秒與雙影格驗證。已知一般單鍵公告依白名單關閉，但「我不是司機」等駕駛安全聲明仍需本人確認，未保證完全無人值守。請先停止巡檢、CAB、路線與虛擬定位，再用原正式簽章保留資料覆蓋；勿卸載或清資料。Code152 尚未完成 S24 15 點實機端到端驗收。"
 }
